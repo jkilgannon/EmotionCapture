@@ -1,0 +1,399 @@
+Epoch 1/100
+897/897 [==============================] - 520s 579ms/step - loss: 1.8116 - accuracy: 0.2460 - val_loss: 1.6120 - val_accuracy: 0.3549
+
+Epoch 00001: loss improved from inf to 1.76216, saving model to .\best_model_incremental_1.h5
+Epoch 2/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.6589 - accuracy: 0.3262 - val_loss: 1.4877 - val_accuracy: 0.4489
+
+Epoch 00002: loss improved from 1.76216 to 1.63574, saving model to .\best_model_incremental_2.h5
+Epoch 3/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.5598 - accuracy: 0.3886 - val_loss: 1.4218 - val_accuracy: 0.4501
+
+Epoch 00003: loss improved from 1.63574 to 1.54554, saving model to .\best_model_incremental_3.h5
+Epoch 4/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.5101 - accuracy: 0.4093 - val_loss: 1.3728 - val_accuracy: 0.4801
+
+Epoch 00004: loss improved from 1.54554 to 1.50228, saving model to .\best_model_incremental_4.h5
+Epoch 5/100
+897/897 [==============================] - 35s 38ms/step - loss: 1.4655 - accuracy: 0.4279 - val_loss: 1.3311 - val_accuracy: 0.4845
+
+Epoch 00005: loss improved from 1.50228 to 1.46735, saving model to .\best_model_incremental_5.h5
+Epoch 6/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.4400 - accuracy: 0.4405 - val_loss: 1.2996 - val_accuracy: 0.5015
+
+Epoch 00006: loss improved from 1.46735 to 1.43946, saving model to .\best_model_incremental_6.h5
+Epoch 7/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.4211 - accuracy: 0.4491 - val_loss: 1.2785 - val_accuracy: 0.5102
+
+Epoch 00007: loss improved from 1.43946 to 1.41821, saving model to .\best_model_incremental_7.h5
+Epoch 8/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3961 - accuracy: 0.4575 - val_loss: 1.2629 - val_accuracy: 0.5160
+
+Epoch 00008: loss improved from 1.41821 to 1.40149, saving model to .\best_model_incremental_8.h5
+Epoch 9/100
+897/897 [==============================] - 34s 38ms/step - loss: 1.3863 - accuracy: 0.4585 - val_loss: 1.2592 - val_accuracy: 0.5208
+
+Epoch 00009: loss improved from 1.40149 to 1.38517, saving model to .\best_model_incremental_9.h5
+Epoch 10/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3699 - accuracy: 0.4672 - val_loss: 1.2632 - val_accuracy: 0.5152
+
+Epoch 00010: loss improved from 1.38517 to 1.37853, saving model to .\best_model_incremental_10.h5
+Epoch 11/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3621 - accuracy: 0.4717 - val_loss: 1.2362 - val_accuracy: 0.5266
+
+Epoch 00011: loss improved from 1.37853 to 1.36793, saving model to .\best_model_incremental_11.h5
+Epoch 12/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3604 - accuracy: 0.4655 - val_loss: 1.2318 - val_accuracy: 0.5335
+
+Epoch 00012: loss improved from 1.36793 to 1.35841, saving model to .\best_model_incremental_12.h5
+Epoch 13/100
+897/897 [==============================] - 35s 38ms/step - loss: 1.3438 - accuracy: 0.4749 - val_loss: 1.2286 - val_accuracy: 0.5322
+
+Epoch 00013: loss improved from 1.35841 to 1.34282, saving model to .\best_model_incremental_13.h5
+Epoch 14/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3387 - accuracy: 0.4757 - val_loss: 1.2176 - val_accuracy: 0.5307
+
+Epoch 00014: loss improved from 1.34282 to 1.33833, saving model to .\best_model_incremental_14.h5
+Epoch 15/100
+897/897 [==============================] - 35s 38ms/step - loss: 1.3157 - accuracy: 0.4877 - val_loss: 1.2138 - val_accuracy: 0.5386
+
+Epoch 00015: loss improved from 1.33833 to 1.32828, saving model to .\best_model_incremental_15.h5
+Epoch 16/100
+897/897 [==============================] - 35s 38ms/step - loss: 1.3121 - accuracy: 0.4931 - val_loss: 1.2150 - val_accuracy: 0.5343
+
+Epoch 00016: loss improved from 1.32828 to 1.32001, saving model to .\best_model_incremental_16.h5
+Epoch 17/100
+897/897 [==============================] - 35s 38ms/step - loss: 1.3270 - accuracy: 0.4852 - val_loss: 1.1998 - val_accuracy: 0.5360
+
+Epoch 00017: loss improved from 1.32001 to 1.31633, saving model to .\best_model_incremental_17.h5
+Epoch 18/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3142 - accuracy: 0.4961 - val_loss: 1.1986 - val_accuracy: 0.5421
+
+Epoch 00018: loss improved from 1.31633 to 1.31328, saving model to .\best_model_incremental_18.h5
+Epoch 19/100
+897/897 [==============================] - 35s 39ms/step - loss: 1.3019 - accuracy: 0.4998 - val_loss: 1.1958 - val_accuracy: 0.5412
+
+Epoch 00019: loss improved from 1.31328 to 1.29784, saving model to .\best_model_incremental_19.h5
+Epoch 20/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2930 - accuracy: 0.5055 - val_loss: 1.1855 - val_accuracy: 0.5487
+
+Epoch 00020: loss improved from 1.29784 to 1.29744, saving model to .\best_model_incremental_20.h5
+Epoch 21/100
+897/897 [==============================] - 36s 41ms/step - loss: 1.2824 - accuracy: 0.5041 - val_loss: 1.2027 - val_accuracy: 0.5463
+
+Epoch 00021: loss improved from 1.29744 to 1.28353, saving model to .\best_model_incremental_21.h5
+Epoch 22/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.2676 - accuracy: 0.5112 - val_loss: 1.1779 - val_accuracy: 0.5488
+
+Epoch 00022: loss improved from 1.28353 to 1.27439, saving model to .\best_model_incremental_22.h5
+Epoch 23/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2863 - accuracy: 0.5090 - val_loss: 1.1702 - val_accuracy: 0.5541
+
+Epoch 00023: loss did not improve from 1.27439
+Epoch 24/100
+897/897 [==============================] - 35s 40ms/step - loss: 1.2617 - accuracy: 0.5179 - val_loss: 1.1658 - val_accuracy: 0.5504
+
+Epoch 00024: loss improved from 1.27439 to 1.26642, saving model to .\best_model_incremental_24.h5
+Epoch 25/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2624 - accuracy: 0.5159 - val_loss: 1.1734 - val_accuracy: 0.5533
+
+Epoch 00025: loss improved from 1.26642 to 1.26405, saving model to .\best_model_incremental_25.h5
+Epoch 26/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2594 - accuracy: 0.5215 - val_loss: 1.1674 - val_accuracy: 0.5472
+
+Epoch 00026: loss improved from 1.26405 to 1.25603, saving model to .\best_model_incremental_26.h5
+Epoch 27/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2621 - accuracy: 0.5159 - val_loss: 1.1577 - val_accuracy: 0.5583
+
+Epoch 00027: loss did not improve from 1.25603
+Epoch 28/100
+897/897 [==============================] - 36s 41ms/step - loss: 1.2522 - accuracy: 0.5185 - val_loss: 1.1603 - val_accuracy: 0.5520
+
+Epoch 00028: loss improved from 1.25603 to 1.25344, saving model to .\best_model_incremental_28.h5
+Epoch 29/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2362 - accuracy: 0.5282 - val_loss: 1.1662 - val_accuracy: 0.5544
+
+Epoch 00029: loss improved from 1.25344 to 1.24551, saving model to .\best_model_incremental_29.h5
+Epoch 30/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2415 - accuracy: 0.5238 - val_loss: 1.1515 - val_accuracy: 0.5566
+
+Epoch 00030: loss improved from 1.24551 to 1.23876, saving model to .\best_model_incremental_30.h5
+Epoch 31/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2415 - accuracy: 0.5242 - val_loss: 1.1607 - val_accuracy: 0.5550
+
+Epoch 00031: loss did not improve from 1.23876
+Epoch 32/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2189 - accuracy: 0.5344 - val_loss: 1.1479 - val_accuracy: 0.5635
+
+Epoch 00032: loss improved from 1.23876 to 1.23391, saving model to .\best_model_incremental_32.h5
+Epoch 33/100
+897/897 [==============================] - 36s 40ms/step - loss: 1.2224 - accuracy: 0.5321 - val_loss: 1.1561 - val_accuracy: 0.5614
+
+Epoch 00033: loss improved from 1.23391 to 1.23243, saving model to .\best_model_incremental_33.h5
+Epoch 34/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.2135 - accuracy: 0.5325 - val_loss: 1.1527 - val_accuracy: 0.5544
+
+Epoch 00034: loss improved from 1.23243 to 1.22275, saving model to .\best_model_incremental_34.h5
+Epoch 35/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.2372 - accuracy: 0.5260 - val_loss: 1.1684 - val_accuracy: 0.5578
+
+Epoch 00035: loss did not improve from 1.22275
+Epoch 36/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.2440 - accuracy: 0.5222 - val_loss: 1.1404 - val_accuracy: 0.5650
+
+Epoch 00036: loss did not improve from 1.22275
+Epoch 37/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.2143 - accuracy: 0.5335 - val_loss: 1.1484 - val_accuracy: 0.5585
+
+Epoch 00037: loss improved from 1.22275 to 1.22052, saving model to .\best_model_incremental_37.h5
+Epoch 38/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.2146 - accuracy: 0.5340 - val_loss: 1.1440 - val_accuracy: 0.5653
+
+Epoch 00038: loss did not improve from 1.22052
+Epoch 39/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.2120 - accuracy: 0.5353 - val_loss: 1.1500 - val_accuracy: 0.5625
+
+Epoch 00039: loss improved from 1.22052 to 1.21502, saving model to .\best_model_incremental_39.h5
+Epoch 40/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.2231 - accuracy: 0.5293 - val_loss: 1.1420 - val_accuracy: 0.5626
+
+Epoch 00040: loss did not improve from 1.21502
+Epoch 41/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1988 - accuracy: 0.5413 - val_loss: 1.1366 - val_accuracy: 0.5625
+
+Epoch 00041: loss improved from 1.21502 to 1.20503, saving model to .\best_model_incremental_41.h5
+Epoch 42/100
+897/897 [==============================] - 46s 51ms/step - loss: 1.2092 - accuracy: 0.5420 - val_loss: 1.1451 - val_accuracy: 0.5612
+
+Epoch 00042: loss did not improve from 1.20503
+Epoch 43/100
+897/897 [==============================] - 39s 43ms/step - loss: 1.2029 - accuracy: 0.5404 - val_loss: 1.1435 - val_accuracy: 0.5619
+
+Epoch 00043: loss did not improve from 1.20503
+Epoch 44/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1962 - accuracy: 0.5394 - val_loss: 1.1301 - val_accuracy: 0.5678
+
+Epoch 00044: loss improved from 1.20503 to 1.20002, saving model to .\best_model_incremental_44.h5
+Epoch 45/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.2149 - accuracy: 0.5366 - val_loss: 1.1256 - val_accuracy: 0.5672
+
+Epoch 00045: loss did not improve from 1.20002
+Epoch 46/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1968 - accuracy: 0.5403 - val_loss: 1.1396 - val_accuracy: 0.5600
+
+Epoch 00046: loss improved from 1.20002 to 1.19840, saving model to .\best_model_incremental_46.h5
+Epoch 47/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1915 - accuracy: 0.5386 - val_loss: 1.1410 - val_accuracy: 0.5614
+
+Epoch 00047: loss improved from 1.19840 to 1.19810, saving model to .\best_model_incremental_47.h5
+Epoch 48/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1945 - accuracy: 0.5367 - val_loss: 1.1324 - val_accuracy: 0.5672
+
+Epoch 00048: loss improved from 1.19810 to 1.19412, saving model to .\best_model_incremental_48.h5
+Epoch 49/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1888 - accuracy: 0.5445 - val_loss: 1.1435 - val_accuracy: 0.5612
+
+Epoch 00049: loss improved from 1.19412 to 1.19040, saving model to .\best_model_incremental_49.h5
+Epoch 50/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.2021 - accuracy: 0.5379 - val_loss: 1.1239 - val_accuracy: 0.5705
+
+Epoch 00050: loss did not improve from 1.19040
+Epoch 51/100
+897/897 [==============================] - 44s 49ms/step - loss: 1.2038 - accuracy: 0.5355 - val_loss: 1.1395 - val_accuracy: 0.5709
+
+Epoch 00051: loss did not improve from 1.19040
+Epoch 52/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1769 - accuracy: 0.5500 - val_loss: 1.1362 - val_accuracy: 0.5667
+
+Epoch 00052: loss improved from 1.19040 to 1.18989, saving model to .\best_model_incremental_52.h5
+Epoch 53/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1804 - accuracy: 0.5432 - val_loss: 1.1420 - val_accuracy: 0.5580
+
+Epoch 00053: loss improved from 1.18989 to 1.17887, saving model to .\best_model_incremental_53.h5
+Epoch 54/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1772 - accuracy: 0.5511 - val_loss: 1.1244 - val_accuracy: 0.5755
+
+Epoch 00054: loss did not improve from 1.17887
+Epoch 55/100
+897/897 [==============================] - 39s 44ms/step - loss: 1.1799 - accuracy: 0.5515 - val_loss: 1.1343 - val_accuracy: 0.5691
+
+Epoch 00055: loss did not improve from 1.17887
+Epoch 56/100
+897/897 [==============================] - 39s 43ms/step - loss: 1.1861 - accuracy: 0.5449 - val_loss: 1.1234 - val_accuracy: 0.5670
+
+Epoch 00056: loss did not improve from 1.17887
+Epoch 57/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1785 - accuracy: 0.5477 - val_loss: 1.1288 - val_accuracy: 0.5703
+
+Epoch 00057: loss did not improve from 1.17887
+Epoch 58/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1831 - accuracy: 0.5438 - val_loss: 1.1511 - val_accuracy: 0.5650
+
+Epoch 00058: loss did not improve from 1.17887
+Epoch 59/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1792 - accuracy: 0.5484 - val_loss: 1.1301 - val_accuracy: 0.5769
+
+Epoch 00059: loss improved from 1.17887 to 1.17777, saving model to .\best_model_incremental_59.h5
+Epoch 60/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1756 - accuracy: 0.5455 - val_loss: 1.1291 - val_accuracy: 0.5752
+
+Epoch 00060: loss improved from 1.17777 to 1.17570, saving model to .\best_model_incremental_60.h5
+Epoch 61/100
+897/897 [==============================] - 39s 44ms/step - loss: 1.1689 - accuracy: 0.5576 - val_loss: 1.1345 - val_accuracy: 0.5731
+
+Epoch 00061: loss improved from 1.17570 to 1.17081, saving model to .\best_model_incremental_61.h5
+Epoch 62/100
+897/897 [==============================] - 39s 43ms/step - loss: 1.1709 - accuracy: 0.5417 - val_loss: 1.1292 - val_accuracy: 0.5718
+
+Epoch 00062: loss improved from 1.17081 to 1.16844, saving model to .\best_model_incremental_62.h5
+Epoch 63/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1596 - accuracy: 0.5545 - val_loss: 1.1222 - val_accuracy: 0.5718
+
+Epoch 00063: loss improved from 1.16844 to 1.16327, saving model to .\best_model_incremental_63.h5
+Epoch 64/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1635 - accuracy: 0.5505 - val_loss: 1.1439 - val_accuracy: 0.5652
+
+Epoch 00064: loss did not improve from 1.16327
+Epoch 65/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1719 - accuracy: 0.5495 - val_loss: 1.1275 - val_accuracy: 0.5702
+
+Epoch 00065: loss did not improve from 1.16327
+Epoch 66/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1655 - accuracy: 0.5484 - val_loss: 1.1284 - val_accuracy: 0.5700
+
+Epoch 00066: loss did not improve from 1.16327
+Epoch 67/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1657 - accuracy: 0.5501 - val_loss: 1.1368 - val_accuracy: 0.5685
+
+Epoch 00067: loss improved from 1.16327 to 1.16231, saving model to .\best_model_incremental_67.h5
+Epoch 68/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1580 - accuracy: 0.5537 - val_loss: 1.1387 - val_accuracy: 0.5635
+
+Epoch 00068: loss did not improve from 1.16231
+Epoch 69/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1476 - accuracy: 0.5593 - val_loss: 1.1280 - val_accuracy: 0.5742
+
+Epoch 00069: loss improved from 1.16231 to 1.15433, saving model to .\best_model_incremental_69.h5
+Epoch 70/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1571 - accuracy: 0.5493 - val_loss: 1.1285 - val_accuracy: 0.5749
+
+Epoch 00070: loss did not improve from 1.15433
+Epoch 71/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1565 - accuracy: 0.5598 - val_loss: 1.1142 - val_accuracy: 0.5755
+
+Epoch 00071: loss did not improve from 1.15433
+Epoch 72/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1584 - accuracy: 0.5550 - val_loss: 1.1505 - val_accuracy: 0.5678
+
+Epoch 00072: loss did not improve from 1.15433
+Epoch 73/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1588 - accuracy: 0.5555 - val_loss: 1.1342 - val_accuracy: 0.5717
+
+Epoch 00073: loss did not improve from 1.15433
+Epoch 74/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1668 - accuracy: 0.5523 - val_loss: 1.1245 - val_accuracy: 0.5774
+
+Epoch 00074: loss did not improve from 1.15433
+Epoch 75/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1492 - accuracy: 0.5603 - val_loss: 1.1232 - val_accuracy: 0.5705
+
+Epoch 00075: loss did not improve from 1.15433
+Epoch 76/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1419 - accuracy: 0.5623 - val_loss: 1.1198 - val_accuracy: 0.5748
+
+Epoch 00076: loss improved from 1.15433 to 1.15100, saving model to .\best_model_incremental_76.h5
+Epoch 77/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1521 - accuracy: 0.5569 - val_loss: 1.1277 - val_accuracy: 0.5721
+
+Epoch 00077: loss did not improve from 1.15100
+Epoch 78/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1560 - accuracy: 0.5632 - val_loss: 1.1308 - val_accuracy: 0.5759
+
+Epoch 00078: loss did not improve from 1.15100
+Epoch 79/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1603 - accuracy: 0.5488 - val_loss: 1.1334 - val_accuracy: 0.5717
+
+Epoch 00079: loss did not improve from 1.15100
+Epoch 80/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1558 - accuracy: 0.5576 - val_loss: 1.1207 - val_accuracy: 0.5732
+
+Epoch 00080: loss did not improve from 1.15100
+Epoch 81/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1500 - accuracy: 0.5575 - val_loss: 1.1257 - val_accuracy: 0.5748
+
+Epoch 00081: loss did not improve from 1.15100
+Epoch 82/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1342 - accuracy: 0.5642 - val_loss: 1.1324 - val_accuracy: 0.5756
+
+Epoch 00082: loss improved from 1.15100 to 1.14116, saving model to .\best_model_incremental_82.h5
+Epoch 83/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1409 - accuracy: 0.5580 - val_loss: 1.1325 - val_accuracy: 0.5816
+
+Epoch 00083: loss did not improve from 1.14116
+Epoch 84/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1408 - accuracy: 0.5599 - val_loss: 1.1200 - val_accuracy: 0.5781
+
+Epoch 00084: loss did not improve from 1.14116
+Epoch 85/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1410 - accuracy: 0.5572 - val_loss: 1.1242 - val_accuracy: 0.5777
+
+Epoch 00085: loss improved from 1.14116 to 1.14104, saving model to .\best_model_incremental_85.h5
+Epoch 86/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1393 - accuracy: 0.5606 - val_loss: 1.1355 - val_accuracy: 0.5742
+
+Epoch 00086: loss did not improve from 1.14104
+Epoch 87/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1397 - accuracy: 0.5638 - val_loss: 1.1338 - val_accuracy: 0.5688
+
+Epoch 00087: loss improved from 1.14104 to 1.14007, saving model to .\best_model_incremental_87.h5
+Epoch 88/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1365 - accuracy: 0.5604 - val_loss: 1.1265 - val_accuracy: 0.5737
+
+Epoch 00088: loss did not improve from 1.14007
+Epoch 89/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1259 - accuracy: 0.5617 - val_loss: 1.1278 - val_accuracy: 0.5760
+
+Epoch 00089: loss improved from 1.14007 to 1.13371, saving model to .\best_model_incremental_89.h5
+Epoch 90/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1265 - accuracy: 0.5668 - val_loss: 1.1365 - val_accuracy: 0.5721
+
+Epoch 00090: loss did not improve from 1.13371
+Epoch 91/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1398 - accuracy: 0.5647 - val_loss: 1.1311 - val_accuracy: 0.5737
+
+Epoch 00091: loss did not improve from 1.13371
+Epoch 92/100
+897/897 [==============================] - 38s 42ms/step - loss: 1.1342 - accuracy: 0.5596 - val_loss: 1.1183 - val_accuracy: 0.5756
+
+Epoch 00092: loss improved from 1.13371 to 1.13115, saving model to .\best_model_incremental_92.h5
+Epoch 93/100
+897/897 [==============================] - 38s 43ms/step - loss: 1.1271 - accuracy: 0.5644 - val_loss: 1.1491 - val_accuracy: 0.5688
+
+Epoch 00093: loss did not improve from 1.13115
+Epoch 94/100
+897/897 [==============================] - 41s 46ms/step - loss: 1.1339 - accuracy: 0.5625 - val_loss: 1.1343 - val_accuracy: 0.5672
+
+Epoch 00094: loss did not improve from 1.13115
+Epoch 95/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1370 - accuracy: 0.5617 - val_loss: 1.1212 - val_accuracy: 0.5749
+
+Epoch 00095: loss did not improve from 1.13115
+Epoch 96/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1311 - accuracy: 0.5629 - val_loss: 1.1265 - val_accuracy: 0.5742
+
+Epoch 00096: loss improved from 1.13115 to 1.13056, saving model to .\best_model_incremental_96.h5
+Epoch 97/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1248 - accuracy: 0.5679 - val_loss: 1.1277 - val_accuracy: 0.5717
+
+Epoch 00097: loss did not improve from 1.13056
+Epoch 98/100
+897/897 [==============================] - 37s 42ms/step - loss: 1.1191 - accuracy: 0.5678 - val_loss: 1.1270 - val_accuracy: 0.5773
+
+Epoch 00098: loss did not improve from 1.13056
+Epoch 99/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1363 - accuracy: 0.5623 - val_loss: 1.1282 - val_accuracy: 0.5737
+
+Epoch 00099: loss did not improve from 1.13056
+Epoch 100/100
+897/897 [==============================] - 37s 41ms/step - loss: 1.1203 - accuracy: 0.5722 - val_loss: 1.1246 - val_accuracy: 0.5773
+
